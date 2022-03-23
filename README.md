@@ -15,7 +15,7 @@ You should now be able to run `anvi-self-test --suite genome-view` without any h
 ![view](https://i.imgur.com/xsAfKnq.png)
 The Genome View interface is comprised of three main areas
 1. The 'main canvas' - this is where your visualization lives
-2. The 'nav bar' - your one stop shop for quickly navigating
+2. The 'nav bar' - your one stop shop for quickly navigating the main canvas
 3. The 'settings pane' - an anvi'o classic! Easily accessible with the `s` shortcut
 
 ## Navigating the main canvas
