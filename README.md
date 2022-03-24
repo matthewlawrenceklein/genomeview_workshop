@@ -75,7 +75,10 @@ Here's a brief overview of the various sub-sections in the settings pane, in ord
     - Check the "Link gene/label source" checkbox and select a new "Color genes by" value
     - Batch color gene-arrows by any criteria you'd like. Does this work as expected?
     - Reset function colors (bug* move the navbar to trigger a re-render)
-
+- We can also edit cosmetics of multiple genes at once manually using the lasso menu
+    - Use the mouse drag box to select multiple genes from a single genome
+    - From this menu, batch color the selected genes and add a gene set label which will appear above the individual gene labels
+    - Now, make an additional selection that includes some of the genes you selected previously. You should notice that you are not able to create a set       - label for these genes since they overlap with an existing label
 ## Some closing thoughts
 - What worked as expected? what didn't?
 - Was there any core functionality that you felt was lacking? missing entirely?
